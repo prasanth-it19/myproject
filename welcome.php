@@ -2,8 +2,8 @@
 <head>
 <center><h1><i><b>BIO DATA</b></i></h1></center>]
 </head>
-<body>
-<center><table border="9">
+<body background="https://image.shutterstock.com/image-photo/abstract-pastel-colored-paper-texture-260nw-1007280928.jpg">
+<center><table border="pading">
 
 <tr>
 <th>NAME:</th>

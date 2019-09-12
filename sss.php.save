@@ -1,0 +1,7 @@
+<html>  
+<body>
+
+welcome<?php echo $_post["name"]; ?><br>
+your email address is: <?php echo $_post["email"]; ?>
+</body>
+</html>
